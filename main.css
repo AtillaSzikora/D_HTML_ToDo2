@@ -12,6 +12,12 @@ li {
     margin: 10px;
 }
 
+
 li:hover {
     background-color: aqua;
+}
+
+li.done {
+    text-decoration: line-through;
+    background-color: red;
 }
